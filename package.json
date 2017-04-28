@@ -1,0 +1,29 @@
+{
+  "name": "parse-server-iOS",
+  "version": "1.0.0",
+  "description": "API server for Wait-Less iOS App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ios-codepath/ParseServer.git"
+  },
+  "keywords": [
+    "ios",
+    "parse",
+    "waitless"
+  ],
+  "author": "Wait-Less",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ios-codepath/ParseServer/issues"
+  },
+  "homepage": "https://github.com/ios-codepath/ParseServer#readme",
+  "mongodb": "mongodb://test:Welcome01@ds123371.mlab.com:23371/waitless"
+  "dependencies": {
+    "mongodb-runner": "^3.4.0",
+    "parse-server": "^2.3.8"
+  }
+}
