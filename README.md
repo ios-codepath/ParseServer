@@ -20,6 +20,7 @@ Read the full Parse Server guide here: https://github.com/ParsePlatform/parse-se
 * First run `npm install -g parse-dashboard`
 * change directory to `dashboard`, then execute `parse-dashboard config.json`
 * If necessary, make changes to the content in `config.json`
+* parse dashboard can be accessed from `http://0.0.0.0:4040/`
 
 ### Getting Started With Heroku + mLab Development
 
